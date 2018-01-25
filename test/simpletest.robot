@@ -8,3 +8,6 @@ ${BROWSER}		%{BROWSER}
 Visit Google
 	Open Browser			http://www.google.com	${BROWSER}
 	Capture Page Screenshot
+
+Visit Yahoo
+	Go to 				http://www.yahoo.com
